@@ -148,3 +148,4 @@ To run `pdf-compressor` directly or use it as part of the [`render_tikz.sh`](scr
 ```sh
 pdf-compressor --set-api-key project_public_7c854a9db0...
 ```
+
